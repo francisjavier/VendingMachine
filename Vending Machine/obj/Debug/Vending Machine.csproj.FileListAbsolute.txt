@@ -1,0 +1,5 @@
+c:\users\francisco\documents\visual studio 2015\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.dll.config
+c:\users\francisco\documents\visual studio 2015\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.dll
+c:\users\francisco\documents\visual studio 2015\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.pdb
+c:\users\francisco\documents\visual studio 2015\Projects\Vending Machine\Vending Machine\obj\Debug\Vending Machine.dll
+c:\users\francisco\documents\visual studio 2015\Projects\Vending Machine\Vending Machine\obj\Debug\Vending Machine.pdb

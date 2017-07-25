@@ -1,0 +1,8 @@
+c:\users\francisco\documents\visual studio 2015\Projects\Vending Machine\Vending Machine Console\obj\Debug\Vending Machine Console.csprojResolveAssemblyReference.cache
+c:\users\francisco\documents\visual studio 2015\Projects\Vending Machine\Vending Machine Console\bin\Debug\Vending Machine Console.exe.config
+c:\users\francisco\documents\visual studio 2015\Projects\Vending Machine\Vending Machine Console\bin\Debug\Vending Machine Console.exe
+c:\users\francisco\documents\visual studio 2015\Projects\Vending Machine\Vending Machine Console\bin\Debug\Vending Machine Console.pdb
+c:\users\francisco\documents\visual studio 2015\Projects\Vending Machine\Vending Machine Console\bin\Debug\Vending Machine.dll
+c:\users\francisco\documents\visual studio 2015\Projects\Vending Machine\Vending Machine Console\bin\Debug\Vending Machine.pdb
+c:\users\francisco\documents\visual studio 2015\Projects\Vending Machine\Vending Machine Console\obj\Debug\Vending Machine Console.exe
+c:\users\francisco\documents\visual studio 2015\Projects\Vending Machine\Vending Machine Console\obj\Debug\Vending Machine Console.pdb

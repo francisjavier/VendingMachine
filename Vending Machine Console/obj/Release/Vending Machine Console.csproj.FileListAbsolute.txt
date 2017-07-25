@@ -1,0 +1,1 @@
+c:\Users\Francisco\Documents\Visual Studio 2015\Projects\Vending Machine\Vending Machine Console\bin\Release\Vending Machine Console.exe.config
